@@ -1,4 +1,3 @@
-# mszeng2-mzeng8-nkapse2
 # Locations
 * ## /src
     * Code: main.cpp; SudokuBoard.cpp; SudokuBoard.h
