@@ -3,8 +3,7 @@
     * Code: main.cpp; SudokuBoard.cpp; SudokuBoard.h
     * Tests: test.cpp
     * Data: dataset.csv; datasetTEST.csv(for test.cpp)
-* ## Written report and presentation video
-    * n/a
+
 # Setup
 To run the greedy algorithm:
 ```
